@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <style name="PoluTheme" parent="android:Theme.Material">
+    <item name="android:textColorPrimary">@color/poluwhite</item>
+    <item name="android:windowBackground">@color/poluwhite</item>
+    <item name="android:colorPrimary">#00007F</item>
+  </style>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:theme="@style/PoluTheme">
+  <Button
+        android:text="Kooli tutvustus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Description" />
+    <Button
+        android:text="Kasulikud lingid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/UsefulLinks" />
+    <Button
+        android:text="Tunniplaan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/TimeTable" />
+    <Button
+        android:text="Uudised"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/News" />
+    <Button
+        android:text="Tundide ajad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Times" />
+</LinearLayout>
